@@ -57,7 +57,9 @@ http://taira-komori.jpn.org/game01tw.html
   -平台有時生成會高過玩家可到達的位置，造成無法繼續遊戲
 
 程式碼參考： https://www.youtube.com/watch?v=7Vf_vQIUk5Q
+
 關於SFML： https://www.sfml-dev.org/
+
 素材來源：
 http://free-paper-texture.com/mottle-concrete-texture/
 http://taira-komori.jpn.org/game01tw.html
