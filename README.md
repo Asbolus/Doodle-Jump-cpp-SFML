@@ -12,11 +12,11 @@ Using:
 
 To be fix:
 No UI
-  -Game start immediately when you run this project, no time for player to prepare
-  -If you want to restart after game over you should rerun the project
+ -Game start immediately when you run this project, no time for player to prepare
+ -If you want to restart after game over you should rerun the project
 The platform generate unnaturally
-  -Platforms may overlapping
-  -new platform maybe to high that player can't go on anymore
+ -Platforms may overlapping
+ -new platform maybe to high that player can't go on anymore
 
 Code reference: https://www.youtube.com/watch?v=7Vf_vQIUk5Q
 About SFML: https://www.sfml-dev.org/
