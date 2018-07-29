@@ -81,7 +81,7 @@ int main()
 		if (sf::Keyboard::isKeyPressed(sf::Keyboard::D) || sf::Keyboard::isKeyPressed(sf::Keyboard::Right))
 			playerX += 4;
 
-		// player out of X range and change the side
+		// player out of boundary and change the side
 		// I don't know why   if (playerX > window.getSize().x)   doesn't work. so I use 500 instead of window.getSize().x
 		// the second if :  if (playerX < -40)   use -40 because window.getSize().x is unsigned int, it can't be negative
 		// -40 is (playerTexture x size) / 2
