@@ -14,7 +14,7 @@ Using:
 ------
 If you don't know how to set.(sorry for my English ability...) You can watch this [video](https://www.youtube.com/watch?v=axIgxBQVBg0) to set environment.
 1. Run Visual Studio 2017 Community
-2. Download [SFML 32-bit](https://www.sfml-dev.org/) and [set](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
+2. Download [SFML 32-bit](https://www.sfml-dev.org/download.php) and [set](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
 3. Creat a folder under the project names **SFML** and copy folders into it.(bin, include, lib)
 4. Bulid and run project
 5. An error will appear. Copy dll files into **Debug** folder.(openal32.dll, sfml-audio-d-2.dll, sfml-graphics-d-2.dll, sfml-network-d-2.dll, sfml-system-d-2.dll, sfml-window-d-2.dll)
@@ -41,7 +41,7 @@ The platform generate unnaturally<br>
 ----------
 如果你對設置有疑問，可以看這部[影片](https://www.youtube.com/watch?v=axIgxBQVBg0)教學
 1. 開啟Visual Studio 2017 Community
-2. 下載[SFML 32-bit]((https://www.sfml-dev.org/))並[設置環境](https://www.sfml-dev.org/tutorials/2.5/start-vc.php) 
+2. 下載[SFML 32-bit](https://www.sfml-dev.org/download.php)並[設置環境](https://www.sfml-dev.org/tutorials/2.5/start-vc.php) 
 3. 在專案底下開一個資料夾取名為SFML，並將下載的SFML裡面的三個資料夾(bin、include、lib)放進去
 4. 建置並執行專案
 5. 會出現一個錯誤。複製bin資料夾裡面的dll檔案(openal32.dll、sfml-audio-d-2.dll、sfml-graphics-d-2.dll、sfml-network-d-2.dll、sfml-system-d-2.dll、 sfml-window-d-2.dll)放進Debug資料夾內
