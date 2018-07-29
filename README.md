@@ -17,7 +17,7 @@ If you don't know how to set.(sorry for my English ability...) You can watch thi
 2. Download [SFML 32-bit](https://www.sfml-dev.org/download.php) and [set](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
 3. Creat a folder under the project names **SFML** and copy folders into it.(bin, include, lib)
 4. Bulid and run project
-5. An error will appear. Copy dll files into **Debug** folder.(openal32.dll, sfml-audio-d-2.dll, sfml-graphics-d-2.dll, sfml-network-d-2.dll, sfml-system-d-2.dll, sfml-window-d-2.dll)
+5. An error will appear. Copy dll files in **bin** into **Debug** folder.(openal32.dll, sfml-audio-d-2.dll, sfml-graphics-d-2.dll, sfml-network-d-2.dll, sfml-system-d-2.dll, sfml-window-d-2.dll)
 6. Rerun the project.
 
 To be fix:
