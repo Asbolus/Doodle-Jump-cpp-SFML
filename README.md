@@ -1,70 +1,59 @@
 # Doodle Jump cpp SFML
 
-I have poor English ability so I can't describe clearly and there may some grammar/word mistakes. My native language is Chinese so I will write down both English and Chinese.
-I am a beginner, please give me some suggestions to improve my ability. English advice also. :)
+------
+**The mobile game *Doodle Jump* practice in C++ and SFML**<br>
+**Code reference from FamTrinli's YouTube channel**
 
-Doodle Jump game in C++ and SFML, there is no OOP conception but simple code you can understand easily.
+I have poor English ability so I can't describe clearly and there may some grammar/word mistakes. My native language is Chinese so I will write down both English and Chinese.<br>
+I am a beginner, please give me some suggestions to improve my coding ability. English advice also. :)
 
+Doodle Jump game in C++ and SFML, there is no OOP conception but simple code you can understand easily.<br>
+I watch FamTrinli's YouTube channel that he write the game by C++ to learing and I modify it a small part.
 Using:
+------
+If you don't know how to set.(sorry for my English ability...) You can watch this [video](https://www.youtube.com/watch?v=axIgxBQVBg0) to set environment.
 1. Run Visual Studio 2017 Community
-2. Download SFML and set (https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
-3. Bulid and run project
-
+2. Download [SFML 32-bit](https://www.sfml-dev.org/) and [set](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
+3. Creat a folder under the project names **SFML** and copy folders into it.(bin, include, lib)
+4. Bulid and run project
+5. An error will appear. Copy dll files into **Debug** folder.(openal32.dll, sfml-audio-d-2.dll, sfml-graphics-d-2.dll, sfml-network-d-2.dll, sfml-system-d-2.dll, sfml-window-d-2.dll)
+6. Rerun the project.
 To be fix:
+----------
+No UI<br>
+&nbsp;&nbsp;-Game start immediately when you run this project, no time for player to prepare<br>
+&nbsp;&nbsp;-If you want to restart after game over you should rerun the project
 
-No UI
+The platform generate unnaturally<br>
+&nbsp;&nbsp;-Platforms may overlapping<br>
+&nbsp;&nbsp;-new platform maybe to high that player can't go on anymore
 
-  -Game start immediately when you run this project, no time for player to prepare
-  
-  -If you want to restart after game over you should rerun the project
-  
-The platform generate unnaturally
+[Code reference](https://www.youtube.com/watch?v=7Vf_vQIUk5Q)<br>
+[SFML](https://www.sfml-dev.org/)
 
-  -Platforms may overlapping
-  
-  -new platform maybe to high that player can't go on anymore
-
-Code reference: https://www.youtube.com/watch?v=7Vf_vQIUk5Q
-
-About SFML: https://www.sfml-dev.org/ 
-
-Resourse from: 
-
-http://free-paper-texture.com/mottle-concrete-texture/
-
-http://taira-komori.jpn.org/game01tw.html
-
-
-用C++與SFML寫成的Doodle Jump，裡面沒有使用OOP觀念（把角色做成物件等），但是用直觀好了解的邏輯撰寫
+-------
+用C++與SFML寫成的Doodle Jump，裡面沒有使用OOP觀念（把角色做成物件等），但是用直觀好了解的邏輯撰寫<br>
+程式碼參考自FamTrinli的YouTube頻道，我做了一些改寫
 
 使用：
-
-一、 開啟Visual Studio 2017 Community
-
-二、 下載SFML並設置好環境 (https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
-
-三、 建置並執行專案
+----------
+如果你對設置有疑問，可以看這部[影片](https://www.youtube.com/watch?v=axIgxBQVBg0)教學
+1. 開啟Visual Studio 2017 Community
+2. 下載[SFML 32-bit]((https://www.sfml-dev.org/))並[設置環境](https://www.sfml-dev.org/tutorials/2.5/start-vc.php) 
+3. 在專案底下開一個資料夾取名為SFML，並將下載的SFML裡面的三個資料夾(bin、include、lib)放進去
+4. 建置並執行專案
+5. 會出現一個錯誤。複製bin資料夾裡面的dll檔案(openal32.dll、sfml-audio-d-2.dll、sfml-graphics-d-2.dll、sfml-network-d-2.dll、sfml-system-d-2.dll、 sfml-window-d-2.dll)放進Debug資料夾內
+6. 再次執行專案
 
 待修正：
-
+----------
 沒有UI
-
-  -遊戲會立即開始，沒有時間給玩家準備
-  
-  -死亡不會重來，必須重啟專案
+&nbsp;&nbsp;-遊戲會立即開始，沒有時間給玩家準備
+&nbsp;&nbsp;-死亡不會重來，必須重啟專案
   
 平台會不自然地生成
+&nbsp;&nbsp;&nbsp;&nbsp;-平台可能重疊
+&nbsp;&nbsp;&nbsp;&nbsp;-平台有時生成會高過玩家可到達的位置，造成無法繼續遊戲
 
-  -平台可能重疊
-  
-  -平台有時生成會高過玩家可到達的位置，造成無法繼續遊戲
-
-程式碼參考： https://www.youtube.com/watch?v=7Vf_vQIUk5Q
-
-關於SFML： https://www.sfml-dev.org/
-
-素材來源：
-
-http://free-paper-texture.com/mottle-concrete-texture/
-
-http://taira-komori.jpn.org/game01tw.html
+[程式碼參考](https://www.youtube.com/watch?v=7Vf_vQIUk5Q)
+[SFML](https://www.sfml-dev.org/)
