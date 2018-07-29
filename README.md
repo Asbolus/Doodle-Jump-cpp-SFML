@@ -9,6 +9,7 @@ I am a beginner, please give me some suggestions to improve my coding ability. E
 
 Doodle Jump game in C++ and SFML, there is no OOP conception but simple code you can understand easily.<br>
 I watch FamTrinli's YouTube channel that he write the game by C++ to learing and I modify it a small part.
+
 Using:
 ------
 If you don't know how to set.(sorry for my English ability...) You can watch this [video](https://www.youtube.com/watch?v=axIgxBQVBg0) to set environment.
@@ -18,6 +19,7 @@ If you don't know how to set.(sorry for my English ability...) You can watch thi
 4. Bulid and run project
 5. An error will appear. Copy dll files into **Debug** folder.(openal32.dll, sfml-audio-d-2.dll, sfml-graphics-d-2.dll, sfml-network-d-2.dll, sfml-system-d-2.dll, sfml-window-d-2.dll)
 6. Rerun the project.
+
 To be fix:
 ----------
 No UI<br>
@@ -47,13 +49,13 @@ The platform generate unnaturally<br>
 
 待修正：
 ----------
-沒有UI
-&nbsp;&nbsp;-遊戲會立即開始，沒有時間給玩家準備
+沒有UI<br>
+&nbsp;&nbsp;-遊戲會立即開始，沒有時間給玩家準備<br>
 &nbsp;&nbsp;-死亡不會重來，必須重啟專案
   
-平台會不自然地生成
-&nbsp;&nbsp;&nbsp;&nbsp;-平台可能重疊
+平台會不自然地生成<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-平台可能重疊<br>
 &nbsp;&nbsp;&nbsp;&nbsp;-平台有時生成會高過玩家可到達的位置，造成無法繼續遊戲
 
-[程式碼參考](https://www.youtube.com/watch?v=7Vf_vQIUk5Q)
+[程式碼參考](https://www.youtube.com/watch?v=7Vf_vQIUk5Q)<br>
 [SFML](https://www.sfml-dev.org/)
