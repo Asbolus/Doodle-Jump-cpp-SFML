@@ -11,9 +11,9 @@ Using:
 3. Bulid and run project
 
 To be fix:
-No UI
-  -Game start immediately when you run this project, no time for player to prepare
-  -If you want to restart after game over you should rerun the project
+1. No UI
+(1)Game start immediately when you run this project, no time for player to prepare
+(2)If you want to restart after game over you should rerun the project
   
 The platform generate unnaturally
   -Platforms may overlapping
