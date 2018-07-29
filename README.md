@@ -11,7 +11,6 @@ Using:
 3. Bulid and run project
 
 To be fix:
-
 No UI
 
   -Game start immediately when you run this project, no time for player to prepare
