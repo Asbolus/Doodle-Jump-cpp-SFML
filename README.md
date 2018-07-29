@@ -4,7 +4,7 @@
 **The mobile game *Doodle Jump* practice in C++ and SFML**<br>
 **Code reference from FamTrinli's YouTube channel**
 
-YouTube video link.<br>
+YouTube video [link](https://www.youtube.com/watch?v=7lmDFAI_jJ8).<br>
 [![](http://img.youtube.com/vi/7lmDFAI_jJ8/0.jpg)](http://www.youtube.com/watch?v=7lmDFAI_jJ8 "")
 
 I have poor English ability so I can't describe clearly and there may some grammar/word mistakes. My native language is Chinese so I will write down both English and Chinese.<br>
