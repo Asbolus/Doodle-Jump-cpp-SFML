@@ -4,11 +4,13 @@
 **The mobile game *Doodle Jump* practice in C++ and SFML**<br>
 **Code reference from FamTrinli's YouTube channel**
 
+[![](http://img.youtube.com/vi/7lmDFAI_jJ8/0.jpg)](http://www.youtube.com/watch?v=7lmDFAI_jJ8 "")
+
 I have poor English ability so I can't describe clearly and there may some grammar/word mistakes. My native language is Chinese so I will write down both English and Chinese.<br>
 I am a beginner, please give me some suggestions to improve my coding ability. English advice also. :)
 
 Doodle Jump game in C++ and SFML, there is no OOP conception but simple code you can understand easily.<br>
-I watch FamTrinli's YouTube channel that he write the game by C++ to learing and I modify it a small part.
+I watch FamTrinli's YouTube channel to learning and he write the game by C++. I modify it a small part.
 
 Using:
 ------
