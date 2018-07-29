@@ -31,6 +31,7 @@ About SFML: https://www.sfml-dev.org/
 Resourse from: 
 
 http://free-paper-texture.com/mottle-concrete-texture/
+
 http://taira-komori.jpn.org/game01tw.html
 
 用C++與SFML寫成的Doodle Jump，裡面沒有使用OOP觀念（把角色做成物件等），但是用直觀好了解的邏輯撰寫
@@ -63,4 +64,5 @@ http://taira-komori.jpn.org/game01tw.html
 
 素材來源：
 http://free-paper-texture.com/mottle-concrete-texture/
+
 http://taira-komori.jpn.org/game01tw.html
