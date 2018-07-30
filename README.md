@@ -11,7 +11,7 @@ I have poor English ability so I can't describe clearly and there may some gramm
 I am a beginner, please give me some suggestions to improve my coding ability. English advice also. :)
 
 Doodle Jump game in C++ and SFML, there is no OOP conception but simple code you can understand easily.<br>
-I watch FamTrinli's YouTube channel to learning and he write the game by C++. I rewrite it in new standards(random number), more clear variables name and add some features.
+I watch FamTrinli's YouTube channel to learning and he write the game by C++. I rewrite it in new standards(random number), more clear variables name, comments to understand and add some features.
 
 Using:
 ------
@@ -38,7 +38,7 @@ The platform generate unnaturally<br>
 
 -------
 用C++與SFML寫成的Doodle Jump，裡面沒有使用OOP觀念（把角色做成物件等），但是用直觀好了解的邏輯撰寫<br>
-程式碼參考自FamTrinli的YouTube頻道，我用新標準重寫(隨機數)、將變數名稱取得更有意義並增加了一些功能
+程式碼參考自FamTrinli的YouTube頻道，我用新標準重寫(隨機數)、將變數名稱取得更有意義、加入註解並增加了一些功能
 
 使用：
 ----------
